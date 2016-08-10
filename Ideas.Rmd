@@ -1,0 +1,106 @@
+---
+title: "-Some- ideas for Colorado hiking trip, 3rd weekend, Aug., 2016"
+author: "M. Terry"
+date: "July 16, 2016"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Some ideas from Charles contained in **06/28/16** email:
+
+So, with Headquarters in one of the following:
+
+ 1)      Fort Collins:   we could do a bit of a test hike anywhere near Fort Collins, Estes, Boulder, or Denver on Friday; pickup up John Friday night, return to the Fort.  On Saturday, we could, depending on wishes, try any number of hikes a bit further afield.  Sunday we could do a quick hike up Arthurs Rock just west of Fort Collins, and return John to the airport.
+
+2)      Frisco:  Frisco would be a better headquarters for biking than hiking, though of course hiking is available nearly everywhere in the Mountains. 
+
+3)      Vail:  We could do a test hike anywhere near Fort Collins on Friday, pick up John in the evening, and drive to Vail ca. 2 hours from Denver.  We would need to find lodging there, and if this is the preferred trip, then we need to make accommodations soon.  If you or John have lots of experience doing same, I’d be pleased to leave the accommodations up to you as my experience is limited.  Sharing the cost three ways would make things less expensive.  Once in Vail, we would have no problem finding things to do or hikes to take on Saturday with something short (or nothing) on Sunday.  You could go on line and check out the many things available here, and you’d experience a real resort atmosphere with lots of people and upscale everything. 
+
+4)      Glenwood Springs:  Glenwood, at least 3 hours from Denver, might be a bit far away depending on the time John arrives on Friday night and when his flight leaves Sunday with the crowds at the airport.  Glenwood is less upscale than Vail but is an old resort town with many activities, chief among them being a splendid biking trail of about 18 miles with three rest stops along the Colorado River (rent bicycles), a good mountain hike up to Hanging Lake from one of the rest stops along the Colorado River, and river float trips down the Colorado River for ten or fifteen miles, a hot mineral springs, a quick trip to Aspen, and so on.  Getting accommodations here soon would also be necessary.     
+
+ 
+
+If you’re chiefly interested in hiking, headquarters in Fort Collins would inexpensive and leave resort Colorado for another time.  If you’d like to get a taste of the resort possibilities in the Colorado mountains, take a quick web tour of Vail and Glenwood Springs and pick one to your liking.  Then we can get serious about making arrangements and laying plans. 
+
+
+### Some additionl ideas from Charles contained in **05/26/16** email:
+
+Climbing a fourteener is  best in August—most or all of the snow has melted by then and the first snows of September haven’t arrived yet.  So perhaps we could identify a week in August to give things a try?  Is there any week in August that would be good for you?
+
+ 
+I think we should think in terms of three or four days.  A maximal trip might be this:  one day to go up Mt. Evans to test for altitude.  A road goes all the way to the top, so it should be possible to do a bit of hiking at high altitude to see how it goes.  Then we could, if I am able, ride up to Estes for lunch another day.  Then  check out a bike shop in Boulder another day, and then finally do Grays and Torreys Peaks for one or two 14ers another day.  Several of these days should leave time to get together with people here if any, and adding another day or subtracting one should leave time for you to visit classmates in Denver.  
+
+### Some 14teener hiking ideas from Charles contained in **07/19/16** email:
+
+If we get moving Friday morning, Mike, we should have no trouble getting over to Mt. Evans, checking things out, doing some hiking before we pick up John at 5:00 on Friday at DIA.  By the third week of August, all the more especially if the hot weather we’ve been having lately continues, there should be no trouble with snow and ice on fourteeners.  Or if there is, it will be very limited, so walking should be no problem.  If the weather is clear and sunny, it should be warm on top, though I always take a down jacket, short nylon windbreaker, light poncho for rain I in the afternoon, and something for hands and ears just to be sure.  If it’s cloudy, then having a down jacket, a waist-up nylon windbreaker with hood, gloves, and headband are important.  A hat to protect from the sun is also important since the higher one goes, the more UV gets through to burn.     
+
+ Depending on what we decide to do, I will make out a checklist of things to have for the trip.  Both of you probably know a thing or two as well if I forget anything.   
+
+ In Colorado, the trails are usually wider at the start and get narrower as they go up because of the difference in traffic.  I cannot speak about maintenance except that all the trails I’ve been on have been passable except in the spring when mountain streams can be high.
+
+ Any of the proposed trips should give you a good idea of the hiking and biking in Colorado.  Estes is a vacation spot popular with families and Midwesterners within a couple hours of Fort Collins; Rocky Mountain National Park is within a few miles of Estes with all its possibilities for biking and hiking.  Vail is an expensive resort/vacation spot with biking trails to Copper Mountain and beyond to the west, to Shrine Pass and beyond to the East; Vail Mountain has a gondola to the top as well as biking and hiking trails up and down;  there are hiking trails at the top as well.  I’ve already described possibilities at Glenwood Springs. 
+
+### Consider biology, geology presentation in choice of hiking location contained in M. Terry **07/25/16** email:
+
+For a choice where to hike on other two days (Fri., & Sun), one consideration might be the following when choosing. 
+
+When hiking at Paradise trailhead on Mt Ranier, park rangers or summer college biology research students conduct walks/tours while describing the biology, & geology of what we were seeing. John notes a PBS show, by Patrick McMillan, 'forests of east face of rockies' of interest. In a plant systematics course this past Spring, went thru the phylogenetic tree of the plant kingdom describing what plants find on several of the branches. One way to understand the relationships of the branches is analyzing the branches as parsimony trees. A website used in the class for displaying phylogenetic trees is 
+
+http://www.mobot.org/mobot/research/apweb/
+
+An iPhone app for identifying plants in the field is 'myGardenAnswers'.
+
+### Hiking check from Charles contained in **07/30/16** email:
+
+Checklist for Colorado Hiking
+
+Hat for Sun Protection
+
+Sunscreen
+
+Lip Balm
+
+Sun Glasses
+
+Long Sleeve Shirt
+
+Long Pants/Jeans (highs at 14,000 are currently in the upper 40s or warm in the sun but cold in wind/shade/clouds; by the 3rd week of August the temps may be a trifle warmer if the heat we've been having holds)
+
+Down Jacket
+
+Light Nylon Windbreaker
+
+Ear Band
+
+Gloves
+
+Light Down Coat (or other light but warm garment in case of cold or wind; if you don't have such a garment, let me know since I can probably provide)
+
+3 One-Quart Canteens or Equivalent (2 quarts is probably enough but 3 is good)
+
+Hiking Shoes/Boots
+
+Hiking Socks
+
+Poncho  for Rain (Pat will buy compact ponchos @ .75 unless you have something you prefer)
+
+Kleenex, Handkerchief
+
+Snack Food (Pat will make gorp with cashews, M&Ms, banana chips, craisons, etc., but bring your own if this doesn't appeal)
+
+Lunch (Mike and I can/will? make lunches for noon--probably turkey and cheese (or peanut butter and jelly for vegetarians, if any)--unless you need or prefer something else
+
+Advil/Aleve (for one or two days)
+
+TP (in a plastic baggie, enough for one or two days)
+
+Alcohol Hand Sanitizer
+
+Day Pack (big enough for the requisite things in this list)
+
+
